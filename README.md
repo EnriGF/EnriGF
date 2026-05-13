@@ -9,7 +9,7 @@
 <tr>
 <td align="center" style="background-color:#f0f7f4; border-radius:16px; padding:24px 32px;">
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=26&pause=1000&color=1D5C44&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Enrique+Gómez+Fernández+👋;Biólogo+%7C+Bioinformática+%26+Bioestadística;Datos+%2B+Ciencia+%3D+Soluciones" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=26&pause=1000&color=1D5C44&center=true&vCenter=true&width=560&lines=Hola%2C+soy+Enrique+%F0%9F%91%8B;Bi%C3%B3logo+%7C+Bioinform%C3%A1tica+%26+Bioestad%C3%ADstica;Datos+%2B+Ciencia+%3D+Soluciones" alt="Typing SVG" />
 
 </td>
 </tr>
